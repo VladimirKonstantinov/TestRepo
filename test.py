@@ -1,5 +1,5 @@
 
 L1 = ['a', 'b', 'c']
 
-printf(L1)
-printf('OK')
+print(L1)
+print('OK')
